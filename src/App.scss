@@ -1,0 +1,20 @@
+$mainColor: black;
+$secondcolor: white;
+
+.header {
+
+    background-color: $mainColor;
+    color: $secondcolor;
+    padding: 10px;
+
+    h1 {
+        font-size: 40px;
+    }
+}
+
+.teamMember {
+
+    margin: 5px;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
